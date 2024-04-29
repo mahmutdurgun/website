@@ -5,7 +5,7 @@
 <title>TOGÜ - TURHAL UYGULAMALI BİLİMLER FAKÜLTESİ DERGİSİ</title>
 <meta name="description" content="TOGÜ - TURHAL UYGULAMALI BİLİMLER FAKÜLTESİ DERGİSİ">
 <meta name="keywords" content="togubil, makale, dergi">
-<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 
   <div id="page_content">
   
-<!--Template designed by--><a href="http://www.togubil.com"><img src="images/copyright.gif" class="copyright" alt="http://www.togubil.com"></a>
+<!--Template designed by--><a href="http://www.togubil.com"><img src="copyright.gif" class="copyright" alt="http://www.togubil.com"></a>
     
 
 <?php include 'menu.php'; ?>
